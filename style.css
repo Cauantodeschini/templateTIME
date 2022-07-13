@@ -3,3 +3,106 @@
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+footer{
+    width: 100%;
+    background-color: gainsboro;
+}
+
+#francestext {
+    margin-right: 0%;
+}
+
+#torratext {
+    margin-right: 0%;
+}
+
+#paestext {
+    margin-right: 2%;
+}
+
+#paofrances {
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-bottom: 10%;
+    width: 30%;
+    height: 50%;
+    float: left;
+}
+
+#francesimg {
+    padding-bottom: 0%;
+    width: 60%;
+}
+
+
+
+.botaofrances {
+    margin-top: 5%;
+    border: orange;
+    border-radius: 15px;
+
+    display: inline-block;
+
+    cursor: pointer;
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: orange;
+    font-size: 13px;
+    padding: 6px 10px;
+    text-decoration: wavy;
+}
+
+#paotorrado {
+    margin-top: 5%;
+    margin-left: 1%;
+    margin-bottom: 10%;
+    width: 30%;
+    height: 50%;
+    float: left;
+    
+}
+
+#torrado {
+    padding-bottom: 4%;
+    width: 63%;
+}
+
+
+.torradao {
+    margin-top: 5%;
+    border: orange;
+    background-color: orange;
+    border-radius: 15px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 13px;
+    padding: 6px 10px;
+    text-decoration: wavy;
+}
+
+#paes
+    {
+        margin-top: 5%;
+        margin-left: 2%;
+        margin-bottom: 10%;
+        width: 30%;
+        height: 50%;
+        float: left;
+    }
+
+    #paesimg {
+        width: 63%;
+        
+        padding-bottom: 4%;
+    }
+.botaopaes {
+    margin-top: 5%;
+    border: orange;
+    background-color: orange;
+    border-radius: 15px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 13px;
+    padding: 6px 10px;
+    text-decoration: wavy;
+}
